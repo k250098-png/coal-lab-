@@ -1,6 +1,4 @@
-; ============================
-; Task 12 - Hospital Bed Availability
-; ============================
+
 INCLUDE Irvine32.inc
 
 TOTAL_BEDS = 50
